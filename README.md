@@ -1,4 +1,3 @@
-# ai-for-the-arts 
 
 # AI for the Arts and Humanities Portfolio
 
