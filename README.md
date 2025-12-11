@@ -9,5 +9,8 @@ My goals for this course include:
 
 ## The Tasks Completed 
 + **Created a coding notebook** where all my coding exercises were tested and reflected on. 
+    + **coding_exercises.ipynb**
 + **Completed a Machine Learning notebook** where I reflected on ML and learned about the ML workflow– step by step. 
+    + **Machine-Learning-by-Examples-from-start-to-end (1).ipynb**
 + **Created a LLM notebook** where I presented an idea for an application showcasing the interaction between humans and AIs. 
+    + **LLM_Applications.ipynb**
