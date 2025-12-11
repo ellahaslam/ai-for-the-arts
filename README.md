@@ -3,8 +3,9 @@
 
 The purpose of this repository is to learn how to use these tools introduced to me in this course and pull them into a portfolio.
 My goals for this course include: 
-+ Learning how to utilize AI
-+ Learning how to use many different tools like Github, CoPilot, etc
++ Learning how to utilize different tools like Github and Copilot.
++ Learn basic Python code syntax and semantics.
++ Reflect critically on Notebook exercises and AI assistance.
 + Get a good grade in this course
 
 ## The Tasks Completed 
