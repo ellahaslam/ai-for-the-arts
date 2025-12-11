@@ -2,11 +2,13 @@
 # AI for the Arts and Humanities Portfolio - 2836800H
 
 The purpose of this repository is to learn how to use these tools introduced to me in this course and pull them into a portfolio.
-My goals for this course include: 
+
+**My goals for this course include:**
 + Learning how to utilize different tools like Github and Copilot.
-+ Learn basic Python code syntax and semantics.
-+ Reflect critically on Notebook exercises and AI assistance.
-+ Get a good grade in this course
++ Understand basic python code syntax and semantics.
++ Reflect on Machine Learning concepts.
++ Understand how LLMs work. 
++ Reflect critically on Notebook exercises, concepts and AI assistance.
 
 ## My Repository  
 + **Created a coding notebook** where all my coding exercises were tested and reflected on. 
